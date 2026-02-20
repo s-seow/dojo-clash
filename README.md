@@ -7,12 +7,12 @@ This repository contains a **Windows build** packaged as a zip file for easy dow
 ## Download and Run (Windows)
 
 1. Download the build zip:
-   - `releases/dojo_clash.zip`
+   `releases/dojo_clash.zip`
 
 2. Extract the zip to a folder (e.g., `C:\Games\DojoClash\`).
 
 3. Run the game:
-   - `dojo_clash.exe`
+   `dojo_clash.exe`
 
 > Important: Do **not** move the `.exe` out of the extracted folder. The game requires the accompanying folders (e.g., `Engine/`, `dojo_clash/`) to run properly.
 
