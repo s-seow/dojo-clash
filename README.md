@@ -2,7 +2,7 @@
 
 **Dojo Clash** is a 2D fighting game prototype developed in **Unreal Engine** as part of a **Final Year Project (FYP)** at **Nanyang Technological University (NTU), Singapore**.
 
-![Loading Screen](images/dojo_clash_loading.png)
+![Loading Screen](images/dojo_clash_loading.jpg)
 ![Fighting](images/dojo_clash_fighting.jpg)
 
 This repository contains a **Windows build** packaged as a zip file for easy download and execution.
